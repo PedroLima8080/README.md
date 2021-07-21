@@ -9,7 +9,7 @@ Se estiver procurando por um dev para fazer freelas, estágiario ou até mesmo u
 
 ### Links 🌎
 
-<a href="https://www.linkedin.com/in/pedro-lima-553353217/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-lima-553353217/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/" >
 </a>
 
