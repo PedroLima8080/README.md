@@ -1,11 +1,11 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, meu nome é Pedro Lima!
 
-Atualmente, Faço estágio e desenvolvo o front-end e back-end utilizando como principais linguagens: PHP, JS. E seus Frameworks/Libs: Laravel, Vue e ReactJS.
+Trabalho atualmente como desenvolvedor full-stack na USC e utilizo como principais linguagens: PHP, JS. E seus Frameworks/Libs: Laravel, Vue e Express e ReactJS.
 
 ### Estou focando em: 💻
 
-Estou buscamento melhorar minhas habilidades nas linguagens e frameworks ditos a cima. Focando principalmente em Design Patterns, Clean Code, MVC e POO.
-Se estiver procurando por um dev para fazer freelas, estágiario ou até mesmo um Dev JR, estou a disposição!
+Estou buscamento melhorar minhas habilidades nas linguagens e frameworks ditos a cima. Focando principalmente em Design Patterns, Clean Code, TDD, SOLID.
+Se estiver procurando por um Dev JR para freelas ou algo a mais, me contate, estou aberto a novas oportunidades!
 
 ### Links 🌎
 
